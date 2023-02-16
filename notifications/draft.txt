@@ -1,0 +1,7 @@
+Telegram username @alert13_bot
+Telegram token: 6242623641:AAEIOxHNoO3fJBMOggc47heTaeCnxn5ZhXQ
+Chat id: -1001836664381
+
+https://api.telegram.org/bot6242623641:AAEIOxHNoO3fJBMOggc47heTaeCnxn5ZhXQ/getUpdates
+
+curl -X POST  -H 'Content-Type: application/json' -d '{"chat_id": "-1001836664381", "text": "This is a test from qa.guru", "disable_notification": true}' https://api.telegram.org/bot6242623641:AAEIOxHNoO3fJBMOggc47heTaeCnxn5ZhXQ/sendMessage
