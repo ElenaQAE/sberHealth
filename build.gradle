@@ -43,12 +43,12 @@ tasks.withType(JavaCompile) {
 }
 
 test {
+    systemProperties(System.getProperties())
     useJUnitPlatform()
-
 }
 
-task run_jenkins(type: Test) {
-    useJUnitPlatform {
-        includeTags("run_on_jenkins")
-    }
-}
+//task run_jenkins(type: Test) {
+//    useJUnitPlatform {
+//        includeTags("run_on_jenkins")
+//    }
+//}
