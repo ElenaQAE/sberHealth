@@ -47,7 +47,7 @@ test {
 
 }
 
-task test(type: Test) {
+task run_jenkins(type: Test) {
     useJUnitPlatform {
         includeTags("run_on_jenkins")
     }
