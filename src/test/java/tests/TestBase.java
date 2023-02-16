@@ -7,7 +7,10 @@ import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import pages.PageSberHealth;
+
+import java.util.Map;
 
 public class TestBase {
   PageSberHealth pageSberHealth = new PageSberHealth();
@@ -16,18 +19,18 @@ public class TestBase {
   @BeforeAll
   static void beforeAll() {
     Configuration.browserSize = System.getProperty("browserSize", "1920x1080");
-//    Configuration.browser = System.getProperty("browser", "chrome");
-//    Configuration.browserVersion = System.getProperty("browserVersion", "100.0");
-//    Configuration.remote = System.getProperty("remote");
-//
-//    DesiredCapabilities capabilities = new DesiredCapabilities();
-//    capabilities.setCapability("selenoid:options", Map.<String, Object>of(
-//        "enableVNC", true,
-//        "enableVideo", true
-//    ));
-//
-//    Configuration.browserCapabilities = capabilities;
-//
+    Configuration.browser = System.getProperty("browser", "chrome");
+    Configuration.browserVersion = System.getProperty("browserVersion", "100.0");
+    Configuration.remote = System.getProperty("remote");
+
+    DesiredCapabilities capabilities = new DesiredCapabilities();
+    capabilities.setCapability("selenoid:options", Map.<String, Object>of(
+        "enableVNC", true,
+        "enableVideo", true
+    ));
+
+    Configuration.browserCapabilities = capabilities;
+
   }
 
   @BeforeEach
