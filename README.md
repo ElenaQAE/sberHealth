@@ -41,7 +41,7 @@
 
 ## <img src="images/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка <a target="_blank" href="https://jenkins.autotests.cloud/job/elena_sber//"> Jenkins </a>
 <p align="center">
-<a href="https://jenkins.autotests.cloud/job/elena_sber/"><img src="images/jenkins1.jpg" alt="jenkins1"/></a>
+<a href="https://jenkins.autotests.cloud/job/elena_sber/"><img src="images/jenkins1.png" alt="jenkins1"/></a>
 </p>
 
 ## :test_tube:: Параметры сборки в Jenkins:
@@ -70,36 +70,36 @@ test
 
 ## :chart_with_upwards_trend:: Основной отчет
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/allure.jpg">
+<img title="Allure Overview Dashboard" src="images/allure.png">
 </p>
 
 ## :pill:: Пример тест кейса
 <p align="center">
-<img title="AllureSuite" src="images/allure_suite.jpg">
+<img title="AllureSuite" src="images/allure_suite.png">
 </p>
 
 ## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с Allure TestOps <a target="_blank" href="https://allure.autotests.cloud/project/1858/dashboards"></a>
 
 ## :framed_picture:: Доска
 <p align="center">
-<img title="AllureDashboard" src="images/dashboard.jpg">
+<img title="AllureDashboard" src="images/dashboard.png">
 </p>
 
 ## :rocket:: Запуски
 <p align="center">
-<img title="Allure Tests" src="images/launches.jpg">
+<img title="Allure Tests" src="images/launches.png">
 </p>
 
 ## <img src="images/logo/Jira.svg" width="25" height="25"  alt="Jira"/></a> Интеграция с Jira <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-519"></a>
 
 <p align="center">
-<img title="Jira" src="imagesjira.jpg">
+<img title="Jira" src="imagesjira.png">
 </p>
 
 ## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Telegram"/></a> Уведомления в телеграм с использованием бота
 
 <p align="center">
-<img title="telegram" src="images/telegram.jpg">
+<img title="telegram" src="images/telegram.png">
 </p>
 
 ## <img src="images/logo/Selenoid.svg" width="25" height="25" alt="Jenkins"/></a> Selenoid. Пример прогона тестов. <a target="_blank" href="https://selenoid.autotests.cloud/gif/example.gif"> </a>
