@@ -66,7 +66,7 @@ test
 -Dbrowser=${BROWSER}
 ```
 
-## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Allure отчет <a target="_blank" href="https://jenkins.autotests.cloud/job/IBS_test/allure/"></a>
+## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Allure отчет <a target="_blank" href="https://jenkins.autotests.cloud/job/elena_sber/8/allure/"></a>
 
 ## :chart_with_upwards_trend:: Основной отчет
 <p align="center">
@@ -78,7 +78,7 @@ test
 <img title="AllureSuite" src="images/allure_suite.png">
 </p>
 
-## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с Allure TestOps <a target="_blank" href="https://allure.autotests.cloud/project/1858/dashboards"></a>
+## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с Allure TestOps <a target="_blank" href="https://allure.autotests.cloud/project/1875/dashboards"></a>
 
 ## :framed_picture:: Доска
 <p align="center">
@@ -90,7 +90,7 @@ test
 <img title="Allure Tests" src="images/launches.png">
 </p>
 
-## <img src="images/logo/Jira.svg" width="25" height="25"  alt="Jira"/></a> Интеграция с Jira <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-519"></a>
+## <img src="images/logo/Jira.svg" width="25" height="25"  alt="Jira"/></a> Интеграция с Jira <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-535"></a>
 
 <p align="center">
 <img title="Jira" src="images/jira.png">
@@ -102,7 +102,7 @@ test
 <img title="telegram" src="images/telegram.png">
 </p>
 
-## <img src="images/logo/Selenoid.svg" width="25" height="25" alt="Jenkins"/></a> Selenoid. Пример прогона тестов. <a target="_blank" href="https://selenoid.autotests.cloud/gif/example.gif"> </a>
+## <img src="images/logo/Selenoid.svg" width="25" height="25" alt="Jenkins"/></a> Selenoid. Пример прогона тестов. <a target="_blank" href="https://selenoid.autotests.cloud/video/e3f905d32b5818a2de978888113b6105.mp4"> </a>
 
 <p align="center">
 <img title="Selenoid Video" src="images/sberhealth.gif" width="250" height="153"  alt="video"> 
