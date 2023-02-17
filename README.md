@@ -106,4 +106,4 @@ test
 
 <p align="center">
 <img title="Selenoid Video" src="images/sberhealth.gif" width="250" height="153"  alt="video"> 
-</p>
+
