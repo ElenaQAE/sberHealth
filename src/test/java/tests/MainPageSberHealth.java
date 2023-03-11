@@ -3,7 +3,6 @@ package tests;
 import io.qameta.allure.Owner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import pages.PageSberHealth;
 
 import static io.qameta.allure.Allure.step;
 
