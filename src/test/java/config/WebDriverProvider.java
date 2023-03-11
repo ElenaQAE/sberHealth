@@ -18,7 +18,7 @@ public class WebDriverProvider extends TestBase {
     private void createWebDriver() {
         Configuration.browserSize = "1920x1080";
         Configuration.browser = config.getBrowser();
-        Configuration.browserVersion = config.getBrowserVertion();
+        Configuration.browserVersion = config.getBrowserVersion();
         Configuration.remote = config.getRemoteURL();
 
         DesiredCapabilities capabilities = new DesiredCapabilities();

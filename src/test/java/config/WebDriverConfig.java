@@ -3,7 +3,7 @@ package config;
 import org.aeonbits.owner.Config;
 
 @Config.Sources({
-        "classpath:${start}.properties"
+        "classpath:${env}.properties"
 })
 public interface WebDriverConfig extends Config {
 
@@ -11,9 +11,9 @@ public interface WebDriverConfig extends Config {
     @DefaultValue("CHROME")
     String getBrowser();
 
-    @Key("browser_vertion")
+    @Key("browser_version")
     @DefaultValue("100")
-    String getBrowserVertion();
+    String getBrowserVersion();
 
     @Key("remoteUrl")
     String getRemoteURL();
